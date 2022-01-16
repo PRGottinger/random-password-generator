@@ -2,7 +2,7 @@
 
 ## Description
 
-This website will allow the user to create a unique password made up of between 8 to 128 characters, including lowercase letters, uppercase letters, numbers, and special characters.
+This website will allow the user to create a unique password made up of between 8 to 128 characters, including lowercase letters, uppercase letters, numbers, and special characters. If the user chooses a password shorter than 8 characters or longer than 129, the confirm question will repeat. 
 
     - This project was undertaken to give the user the ability to quickly create a unique password for their various online logins. 
     - The goal of this project was to assist the user's ability to increase their personal online security by making it fast and easy to create a unique password. 

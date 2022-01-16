@@ -4,6 +4,7 @@ function myFunction() {
   var length = prompt("How many characters?"); // minimum 8, maximum 256
 
   while (length < 8 || length > 129) {
+    alert("Please choose a password between 8 and 129 characters.");
     length = prompt("How many characters?");
   }
 
