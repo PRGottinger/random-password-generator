@@ -2,25 +2,23 @@
 
 ## Description
 
-This website will allow the user to create a unique password made up of between 8 to 128 characters, including lowercase letters, uppercase letters, numbers, and special characters. If the user chooses a password shorter than 8 characters or longer than 129, the confirm question will repeat. 
+This website will allow the user to create a unique password made up of between 8 to 128 characters, including lowercase letters, uppercase letters, numbers, and special characters. If the user chooses a password shorter than 8 characters or longer than 129, the confirm question will repeat.
 
-    - This project was undertaken to give the user the ability to quickly create a unique password for their various online logins. 
-    - The goal of this project was to assist the user's ability to increase their personal online security by making it fast and easy to create a unique password. 
-    
+This project was undertaken to give the user the ability to quickly create a unique password for their various online logins. The goal of this project was to assist the user's ability to increase their personal online security by making it fast and easy to create a unique password.
+
 ## Installation
 
-The website is deployed to github pages and no special steps are required to view the website or get the decelopment environment runnign, 
+The website is deployed to github pages and no special steps are required to view the website or get the decelopment environment runnign,
 
-## Technologies 
-The site was developed using: HTML, CSS, and Javascript. 
+## Technologies
 
+The site was developed using: HTML, CSS, and Javascript.
 
 ## Usage
 
 You can find the page deployed [here](https://prgottinger.github.io/random-password-generator/).
 
-
-
+![Random Password Generator Page](./assets/screengrab.jpg)
 
 ## License
 
@@ -45,7 +43,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
-
